@@ -1,0 +1,2 @@
+# GameOfLiceC
+Automat komórkowy
